@@ -7,6 +7,8 @@
 // @match 			https://login.microsoftonline.com/common/oauth2/v2.0/authorize*
 // @require     https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js
 // @run-at 			document-end
+// @updateURL   https://raw.githubusercontent.com/joalder/gm-microsoft-login-chooser/main/script.js
+// @downloadURL https://raw.githubusercontent.com/joalder/gm-microsoft-login-chooser/main/script.js
 // ==/UserScript==
 
 'use strict';
